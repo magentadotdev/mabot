@@ -1,3 +1,3 @@
 MABOT
 
-Please go to the website: "mabot.github.io/mabot"
+Please go to the website: "https://magentadotdev.github.io/mabot"
